@@ -1,0 +1,312 @@
+{
+    "multiple_choice": [
+        {
+            "question": "What are the official colors of FBLA?",
+            "correct": "Blue and Gold",
+            "option_2": "Red and Blue",
+            "option_3": "Pink and Green",
+            "option_4": "Cyan and Purple"
+        },
+        {
+            "question": "The FBLA creed contains how many stanzas?",
+            "correct": "Seven",
+            "option_2": "Six",
+            "option_3": "Eight",
+            "option_4": "Nine"
+        },
+        {
+            "question": "Who is the founder of FBLA?",
+            "correct": "Hamden Forkner",
+            "option_2": "Jon Roberts",
+            "option_3": "Paul Smodner",
+            "option_4": "Jacob Ron"
+        },
+        {
+            "question": "When was the first state chapter chartered?",
+            "correct": "1947",
+            "option_2": "1957",
+            "option_3": "1937",
+            "option_4": "1967"
+        },
+        {
+            "question": "Where was the first FBLA chapter chartered?",
+            "correct": "Johnson City",
+            "option_2": "Atlanta",
+            "option_3": "Phoenix",
+            "option_4": "New York City"
+        },
+        {
+            "question": "When was the first FBLA chapter chartered?",
+            "correct": "1942",
+            "option_2": "1932",
+            "option_3": "1952",
+            "option_4": "1962"
+        },
+        {
+            "question": "What are the three words across the top of the FBLA emblem?",
+            "correct": "Service, Education, Progress",
+            "option_2": "Effort, Discipline, Business",
+            "option_3": "Honesty, Integrity, Courtesy",
+            "option_4": "Unity, Friendship, Business"
+        },
+        {
+            "question": "In what year was Phi Beta Lambda created?",
+            "correct": "1958",
+            "option_2": "1948",
+            "option_3": "1938",
+            "option_4": "1968"
+        },
+        {
+            "question": "Who is the Director of Education for FBLA-PBL?",
+            "correct": "Barbara Small",
+            "option_2": "Phillip Laskney",
+            "option_3": "Bill Evertson",
+            "option_4": "Jacob Kert"
+        },
+        {
+            "question": "What year was the Professional Division created?",
+            "correct": "1989",
+            "option_2": "1979",
+            "option_3": "1999",
+            "option_4": "2009"
+        },
+        {
+            "question": "In the absence of the president and vice-president at a regular meeting, who should call the meeting to order?",
+            "correct": "Secretary",
+            "option_2": "Treasurer",
+            "option_3": "Members",
+            "option_4": "All Officers"
+        },
+        {
+            "question": "What symbol on the emblem denotes our belief in democracy, liberty, and the American way of life?",
+            "correct": "Eagle",
+            "option_2": "Hay",
+            "option_3": "Sword",
+            "option_4": "Flag"
+        },
+        {
+            "question": "What do the initials NBEA stand for?",
+            "correct": "National Business Education Association",
+            "option_2": "National Bipartisan Educators of America",
+            "option_3": "National Business Entrepreneurs of America",
+            "option_4": "National Bipartisan Entrepreneurs of America"
+        },
+        {
+            "question": "How is FBLA-PBL, Inc. primarily funded?",
+            "correct": "Membership Dues",
+            "option_2": "Fundraising",
+            "option_3": "Corporations",
+            "option_4": "Donations"
+        },
+        {
+            "question": "What do the initials USDE stand for?",
+            "correct": "United States Department of Education",
+            "option_2": "United States Department of Entrepreneurship",
+            "option_3": "United States Department of Equality",
+            "option_4": "United States Department of Exports"
+        }
+    ],
+    "fill_in_the_blank": [
+        {
+            "question": "The color ___ symbolizes the office of president.",
+            "answer": [
+                "red"
+            ]
+        },
+        {
+            "question": "There are ___ FBLA-Middle goals.",
+            "answer": [
+                "eight",
+                "8"
+            ]
+        },
+        {
+            "question": "Another name for a written plan of action is ___.",
+            "answer": [
+                "program of work",
+                "program work"
+            ]
+        },
+        {
+            "question": "The FBLA-Middle Level national dues are $___ per person.",
+            "answer": [
+                "8",
+                "eight",
+                "8.00",
+                "$8.00",
+                "$8"
+            ]
+        },
+        {
+            "question": "___ years is the term of office for National Board of Director members?",
+            "answer": [
+                "three",
+                "3"
+            ]
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        },
+        {
+            "question": "",
+            "answer": []
+        }
+    ],
+    "true_false": [
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        },
+        {
+            "question": "",
+            "answer": false
+        }
+    ],
+    "dropdown": [
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        },
+        {
+            "question": "",
+            "options": []
+        }
+    ]
+}

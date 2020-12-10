@@ -1,0 +1,105 @@
+/* Sidebar */
+.sidebar {
+  height: 100%;
+  width: 304px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:#132D4D;
+  overflow-x: hidden;
+  font-family: 'New Tai Lue', sans-serif;
+}
+
+/* Sidebar Menu */
+.sidebar-menu .icon{
+  color: #ffffff;
+  margin-right: 16.8px;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+
+.sidebar-menu .text {
+  color: #EBE8E8;
+  margin-right: 16.8px;
+  margin-top: 18px;
+  margin-bottom: 13px;
+  font-size: 16.8px;
+}
+
+.sidebar-menu .active {
+  background: #14273D;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.sidebar-menu .item:hover {
+  background: #14273D;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+/* Sidebar "Xyno" Logo*/
+.sidebar .logo {
+  transition: all .3s ease-in-out;
+  height: 41.5px;
+  width: 107.1;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sidebar .logo:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+/* Sidebar Voice & Settings Buttons */
+.sidebar .buttons {
+  transition: all .3s ease-in-out;
+  font-size: 16.8px;
+  border: 1px solid #4475E2;
+  color: #EBE8E8;
+  border-radius: 50px;
+  width: 246.4px;
+  height: 47.6px;
+  margin-left: 28px;
+  margin-right: 28px;
+  margin-top: 23.8px;
+}
+
+.sidebar .voice {
+  background: #4475E2;
+}
+
+.sidebar .settings {
+  background: transparent;
+  margin-bottom: 54px;
+}
+
+.sidebar .voice:hover {
+  transform: scale(1.025);
+  background: #3b66c3;
+  cursor: pointer;
+}
+
+.sidebar .settings:hover {
+  transform: scale(1.025);
+  background: #102742;
+  cursor: pointer;
+}
+
+/* Sidebar Social Icons */
+.sidebar-social {
+  text-align: center;
+}
+
+.sidebar-social .icon {
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+
+

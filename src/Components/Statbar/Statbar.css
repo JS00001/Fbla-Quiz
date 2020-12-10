@@ -1,0 +1,54 @@
+.statbar {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+    box-shadow: 0px 0px 3px rgb(0, 0, 0, 0.25);
+    border-radius: 7px;
+    background: white;
+    margin-right: 55px ;
+    margin-left: 70px;
+    margin-top: 60px;
+}
+
+/* Row & Column for Statbar */
+.statbar .column-65{
+    float: left;
+    width: 65%;
+}
+
+.statbar .column-35{
+    width: 35%;
+    float: left;
+}
+
+/* Statbar Header & Description*/
+.statbar .header {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+    font-size: 20px;
+    font-weight: 500;
+    color: #94949E;
+    margin-top: 20px;
+    margin-left: 10px;
+    line-height: 0px;
+}
+
+.statbar .description {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+    font-size: 14px;
+    font-weight: 400;
+    color: #94949E;
+    margin-left: 13px;
+
+}
+
+/* Icon Column-35 */
+.statbar .icon {
+    margin: 15px;
+    border-radius: 7px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    color: rgb(0, 0, 255, 0.4);
+    background: rgb(0, 0, 255, 0.15);
+    border: 2px solid rgb(0, 0, 255, 0.15);
+}

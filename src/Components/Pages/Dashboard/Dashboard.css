@@ -1,0 +1,29 @@
+.dashboard {
+   margin-left: 304px;
+   font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+}
+
+.dashboard .column-60 {
+   float: left;
+   width: 60%;
+   margin-top: 71px; 
+}
+
+.dashboard .column-60 h3 {
+   color: #94949E;
+   margin-left: 33px;
+   font-size: 18px;
+   font-weight: 600;
+}
+
+.dashboard .column-40 {
+   float: left;
+   width: 40%;
+   margin-top: 70px;
+}
+
+.dashboard .row:after {
+   content: "";
+   display: table;
+   clear: both;
+}
