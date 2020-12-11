@@ -46,9 +46,9 @@ export default class Sidebar extends React.Component {
                     </div>
 
                     <div className="sidebar-social">
-                        <IconButton href="https://facebook.com/cyberxyno" target="_blank"> <Facebook className="icon" /> </IconButton>
-                        <IconButton href="https://twitter.com/cyberxyno" target="_blank"> <Twitter className="icon" /> </IconButton>
-                        <IconButton href="https://youtube.com/cyberxyno" target="_blank"> <Youtube className="icon" /> </IconButton>
+                        <IconButton href="https://facebook.com/" target="_blank"> <Facebook className="icon" /> </IconButton>
+                        <IconButton href="https://twitter.com/" target="_blank"> <Twitter className="icon" /> </IconButton>
+                        <IconButton href="https://youtube.com/" target="_blank"> <Youtube className="icon" /> </IconButton>
                     </div>
                 </div>
 
